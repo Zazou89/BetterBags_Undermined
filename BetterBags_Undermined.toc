@@ -1,0 +1,10 @@
+## Interface: 110100
+## Title: BetterBags - Undermine(d)
+## Author: Zazou
+## Version: @project-version@
+## Notes: Category for all the Undermine items
+## Dependencies: BetterBags
+## X-Curse-Project-ID: 1213298
+## IconTexture: Interface\Icons\ui_majorfactions_stars
+
+main.lua
