@@ -112,12 +112,12 @@ categories:WipeCategory(L("Undermine(d) - G99"))
 
 -- Add G-99 Breakneck Parts to a separate category
 for _, ItemID in pairs(G99) do
-    categories:AddItemToCategory(ItemID, colorPrefix .. L("Undermine(d)") .. resetColor)
+    categories:AddItemToCategory(ItemID, colorPrefix .. L("Undermine(d) - G99") .. resetColor)
 end
 
 -- Add Shipping and Handling, C.H.E.T.T & Miscellaneous items to the Undermine(d) category
 for _, itemList in pairs({Chests, CHETT, Miscellaneous}) do
     for _, ItemID in pairs(itemList) do
-        categories:AddItemToCategory(ItemID, colorPrefix .. L("Undermine(d) - G99") .. resetColor)
+        categories:AddItemToCategory(ItemID, colorPrefix .. L("Undermine(d)") .. resetColor)
     end
 end
