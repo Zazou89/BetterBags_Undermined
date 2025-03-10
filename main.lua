@@ -100,6 +100,8 @@ local Miscellaneous = {
     229810, --Vintage Kaja'Cola Can
     225415, --Caddy Caller
     233246, --Gunk-Covered Thingy
+    233558, --S.C.R.A.P. Scrubber Deluxe
+    233557, --Sifted Pile of Scrap
 }
 
 --Color categories
