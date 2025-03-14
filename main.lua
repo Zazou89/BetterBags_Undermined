@@ -102,6 +102,7 @@ local Miscellaneous = {
     233246, --Gunk-Covered Thingy
     233558, --S.C.R.A.P. Scrubber Deluxe
     233557, --Sifted Pile of Scrap
+    235558, --Box of Darkfuse Miscellany
 }
 
 --Color categories
