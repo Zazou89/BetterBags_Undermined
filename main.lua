@@ -103,6 +103,13 @@ local Miscellaneous = {
     233558, --S.C.R.A.P. Scrubber Deluxe
     233557, --Sifted Pile of Scrap
     235558, --Box of Darkfuse Miscellany
+    233444, --Kaja'Cola X-Treme
+    233445, --Kaja'Cola X-Treme Mega-Can
+    233446, --Multipack de Kaja’Cola
+    229823, --Canister of Darkfuse Solution
+    235532, --Experimental Goblin-FUEL Supplement
+    235533, --Prototype Auto-Advertiser
+    235534, --Electropuncture Test Model
 }
 
 --Color categories
