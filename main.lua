@@ -93,6 +93,7 @@ local CHETT = {
     236689, --Finder's Fee
     236763, --Finder's Fee
     236765, --Finder's Fee
+    236668, --C.H.E.T.T. Card
 }
 --Miscellaneous
 local Miscellaneous = {
