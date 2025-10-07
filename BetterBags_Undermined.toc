@@ -1,4 +1,4 @@
-## Interface: 110200
+## Interface: 110200, 110205
 ## Title: BetterBags - Undermine(d)
 ## Author: Zazou
 ## Version: @project-version@
